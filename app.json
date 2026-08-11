@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9912b765-ccf4-4085-98c2-a5404439be21"
+      }
+    },
+    "android": {
+      "package": "com.evuas.lifemanager"
+    }
+  }
+}
